@@ -1,0 +1,176 @@
+# jemdoc: nofooter, title{Chak-Wa Pui@CUHK-CSE}
+
+{{<img src="./pic/profile.jpg" width=190px align="right" style="margin:8px"/>}}
+= Jordan, Chak-Wa Pui (貝澤華)
+
+Senior Research Engineer \n
+[https://www.noahlab.com.hk/ Huawei Noah's Ark Lab] \n
+B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
+
+# [http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering]\n
+# [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]
+
+~~~
+{}{raw}
+<a href="https://www.linkedin.com/in/jordan-chak-wa-pui-b91b78a8"><img src="./pic/LinkedIn_s.png"  height="30px"></a>
+<a href="https://www.facebook.com/jordancwpui"><img src="./pic/Facebook_s.png" height="30px"></a>
+<a href="https://github.com/jordanpui"><img src="./pic/github_s.jpg" height="30px"></a>
+<a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
+~~~
+
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Feb. 2021)
+
+*Email*: jordancwp AT gmail.com\n
+
+# {{<font face="georgia, serif" size="3">(<a href="./doc/cv_cwpui.pdf">Resume</a>)</font>}}
+
+
+== About
+
+I'm currently a Senior Research Engineer in Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
+I obtained my Ph.D. degree in Computer Science and Engineering from [https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] in 2019.
+My advisor was Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. 
+Previously, I obtained my bachelor degree in Computer Science and Technology from [http://en.sjtu.edu.cn Shanghai Jiao Tong University], in 2015.
+
+My research mainly focuses on physical design for ASICs and FPGAs, but I also have experience in logic synthesis and applying ML in P&R.
+I am one of the main contributors of several state-of-the-art P&R tools and have won top3 in EDA contests for many times.
+
+== Publications {{<font face="georgia, serif" size="3">(<a href="http://dblp.uni-trier.de/pers/hd/p/Pui:Chak=Wa"><img src="./pic/dblp-5.png" height="30px" style="margin-bottom:-7px"></a>, <a href="https://scholar.google.com.hk/citations?user=5pqag5YAAAAJ&amp;hl=en"><img src="./pic/google-scholar.png" height="20px" style="margin-bottom:-4px"></a>)</font>}}
+=== Journal Paper
+- \[J4\] *Chak-Wa Pui* and Evangeline F.Y. Young, 
+\'[https://dl.acm.org/doi/10.1145/3377551 Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems]\', 
+ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2020.
+- \[J3\] Gengjie Chen, *Chak-Wa Pui*, Haocheng Li, Evangeline F.Y. Young, 
+\'[https://ieeexplore.ieee.org/document/8758352 Dr. CU: Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search]\', 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020.
+- \[J2\] Peishan Tu, *Chak-Wa Pui*, Evangeline F.Y. Young,
+\'[https://ieeexplore.ieee.org/document/8695870 Simultaneous Reconnection Surgery Technique of Routing with Machine Learning-based Acceleration]\', 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020.
+- \[J1\] Gengjie Chen, *Chak-Wa Pui*, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F.Y. Young and Bei Yu, 
+\'[http://ieeexplore.ieee.org/document/8122004/ RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs]\', 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2018.
+
+=== Conference Papers
+- \[C11\] Dan Zheng, Xiaopeng Zhang, *Chak-Wa Pui*, Evangeline F.Y. Young, 
+\'[https://dl.acm.org/doi/10.1145/3394885.3431565 Multi-FPGA Co-optimization: Hybrid Routing and Competitive-based Time Division Multiplexing Assignment]\', 
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Virtual Conference, Jan.~18-21, 2021.
+- \[C10\] Jinwei Liu, *Chak-Wa Pui*, Fangzhou Wang, Evangeline F.Y. Young, 
+\'[https://ieeexplore.ieee.org/document/9218646 CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model]\', 
+ACM/IEEE Design Automation Conference~(*DAC*), Virtual Conference, July~19-23, 2020.
+- \[C9\] *Chak-Wa Pui* and Evangeline F.Y. Young, 
+\'[https://ieeexplore.ieee.org/document/8942125 Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems]\', 
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4-7, 2019.
+- \[C8\] *Chak-Wa Pui*, Gang Wu, Freddy Y. C. Mang, Evangeline F.Y. Young, 
+\'[https://ieeexplore.ieee.org/document/8771330 An Analytical Approach for Time-Division Multiplexing Optimization in Multi-FPGA based Systems]\', 
+ACM/IEEE International Workshop on System-Level Interconnect Prediction (*SLIP*), Las Vegas, NV, USA, June 2, 2019.
+- \[C7\] Biying Xu, Shaolan Li, *Chak-Wa Pui*, Derong Liu, Linxiao Shen, Yibo Lin, Nan Sun and David Z. Pan, 
+\'[ Device Layer-Aware Analytical Placement for Analog Circuits]\',
+ACM International Symposium on Physical Design (*ISPD*), San Francisco, CA, USA, Apr. 14-17, 2019. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}})
+- \[C6\] Gengjie Chen, *Chak-Wa Pui*, Haocheng Li, Jingsong Chen, Bentian Jiang, Evangeline F.Y. Young, 
+\'[https://dl.acm.org/citation.cfm?doid=3287624.3287678 Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search]\', 
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan. 21-24, 2019.
+- \[C5\] Peishan Tu, *Chak-Wa Pui*, Evangeline F.Y. Young, 
+\'[https://dl.acm.org/citation.cfm?id=3194556/ Simultaneous Timing Driven Tree Surgery in Routing with Machine Learning-based Acceleration]\', 
+ACM Great Lakes Symposium on VLSI (*GLSVLSI*), Chicago, IL, USA, May 23-25, 2018.
+- \[C4\] *Chak-Wa Pui*, Peishan Tu, Haocheng Li, Gengjie Chen, Evangeline F.Y. Young, 
+\'[http://ieeexplore.ieee.org/document/8297387/ A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence]\', 
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018.
+- \[C3\] *Chak-Wa Pui*, Gengjie Chen, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
+\'[http://ieeexplore.ieee.org/document/8203880/ Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction]\', 
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
+- \[C2\] *Chak-Wa Pui*, Gengjie Chen, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F.Y. Young, Bei Yu, 
+\'[http://ieeexplore.ieee.org/document/7827644/ RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs]\', 
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov. 7-10, 2016.
+- \[C1\] Wing-Kai Chow, *Chak-Wa Pui*, Evangeline F.Y. Young, 
+\'[http://ieeexplore.ieee.org/document/7544326/ Legalization Algorithm for Multiple-Row Height Standard Cell Design]\', 
+ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}})
+
+
+== Honors & Awards
+- 3rd Place Award in ICCAD 2019 Contest on \'[http://iccad-contest.org/2019/problems.html System-level FPGA Routing with Timing Division Multiplexing Technique]\'
+- 1st Place Award in ICCAD 2019 Contest on \'[http://iccad-contest.org/2019/problems.html LEF/DEF Based Open-Source Global Router]\'
+- ISPD~2019 Best Paper Award Nomination
+- 2nd Place Award in ISPD 2018 Contest on \'[http://www.ispd.cc/contests/18/ Initial Detailed Routing]\'
+- 3rd Place Award in ISPD 2017 Contest on \'[http://www.ispd.cc/contests/17/ Clock-Aware FPGA Placement]\'
+- 1st Place Award in ICCAD 2016 Contest on \'[http://cad-contest-2016.el.cycu.edu.tw/problem_B/default.html NP3: Non-exact Projective NPNP Boolean Matching]\'
+- DAC~2016 Best Paper Award Nomination
+- 2nd Place Award in ISPD 2016 Contest on \'[http://www.ispd.cc/contests/16/ispd2016_contest.html Routability-Driven FPGA Placement]\'
+- Full Postgraduate Studentship at CUHK, 2015-2019
+
+
+== Experiences
+
+Senior Research Engineer @[https://www.noahlab.com.hk/ Huawei Noah's Ark Lab]
+- Decision Making & Reasoning Lab
+- Mar. 2021-present, Shenzhen, China
+
+Lead Software Engineer @[https://www.cadence.com/ Cadence Desgin Systems]
+- Detailed Placement Team of Innovus
+- May. 2020-Mar. 2021, Shanghai, China
+
+Research Assistant @[https://www.cse.cuhk.edu.hk/ The Chinese University of Hong Kong]
+- Aug.-Nov. 2019, Hong Kong SAR
+
+Technical Intern @[https://www.synopsys.com/ Synopsys]
+- Zebu Back-End Team
+- On pin assignment for multi-FPGAs system
+- May-Aug. 2018, Hillsboro, OR, USA
+
+Software Engineering Intern @[https://www.cadence.com/ Cadence Desgin Systems]
+- Detailed Routing Team of Innovus
+- On DRC removal on transition layers
+- May-Sep. 2017, San Jose, CA, USA
+
+
+== Tools
+- [https://github.com/jordanpui/larf LARF] \[J4\]\[C9\]
+- [https://github.com/cuhk-eda/cu-gr CUGR] \[C10\]
+- [https://github.com/cuhk-eda/dr-cu Dr. CU] \[J3\]\[C6\]
+- [https://github.com/cuhk-eda/ripple-fpga RippleFPGA] \[J1\]\[C3\]\[C2\]
+- [https://github.com/cuhk-eda/ripple Ripple] \[C1\]
+
+
+
+== Reviewer / External Reviewer:
+
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+- ACM/IEEE Design Automation Conference (DAC)
+- IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+- ACM Transactions on Design Automation of Electronic Systems (TODAES)
+- ACM International Symposium on Physical Design (ISPD)
+- IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)
+- IEEE International Conference on Computer Design (ICCD)
+- ACM Great Lakes Symposium on VLSI (GLSVLSI)
+- Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI)
+
+
+== Teaching
+
+- 2015-2016 Fall Embedded System Development and Applications
+- 2015-2016 Spring CSCI1520 Computer Principles and C++ Programming
+- 2016-2017 Fall ESTR1002 Problem Solving by Programming
+- 2016-2017 Spring ENGG1100H Introduction to Engineering Design
+- 2017-2018 Fall CSCI2510 Computer Organization
+- 2017-2018 Spring ENGG5189 Advanced Topics in Artificial Intelligence
+
+== 
+~~~
+{}{raw}
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11201774; 
+var sc_invisible=0; 
+var sc_security="656d9c2e"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+        scJsHost+
+        "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="free web stats"
+            href="http://statcounter.com/" target="_blank"><img
+            class="statcounter"
+            src="//c.statcounter.com/11201774/0/656d9c2e/0/" alt="free
+            web stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+~~~
