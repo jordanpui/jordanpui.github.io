@@ -64,7 +64,7 @@ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminste
 \'[https://ieeexplore.ieee.org/document/8771330 An Analytical Approach for Time-Division Multiplexing Optimization in Multi-FPGA based Systems]\', 
 ACM/IEEE International Workshop on System-Level Interconnect Prediction (*SLIP*), Las Vegas, NV, USA, June 2, 2019.
 - \[C7\] Biying Xu, Shaolan Li, *Chak-Wa Pui*, Derong Liu, Linxiao Shen, Yibo Lin, Nan Sun and David Z. Pan, 
-\'[ Device Layer-Aware Analytical Placement for Analog Circuits]\',
+\'[https://dl.acm.org/doi/10.1145/3299902.3309751 Device Layer-Aware Analytical Placement for Analog Circuits]\',
 ACM International Symposium on Physical Design (*ISPD*), San Francisco, CA, USA, Apr. 14-17, 2019. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}})
 - \[C6\] Gengjie Chen, *Chak-Wa Pui*, Haocheng Li, Jingsong Chen, Bentian Jiang, Evangeline F.Y. Young, 
 \'[https://dl.acm.org/citation.cfm?doid=3287624.3287678 Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search]\', 
