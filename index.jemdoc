@@ -1,4 +1,4 @@
-# jemdoc: nofooter, title{Chak-Wa Pui@CUHK-CSE}
+# jemdoc: nofooter, title{Chak-Wa Pui}
 
 {{<img src="./pic/profile.jpg" width=190px align="right" style="margin:8px"/>}}
 = Jordan, Chak-Wa Pui (貝澤華)
@@ -18,7 +18,7 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 <a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
 ~~~
 
-*[./doc/cv_cwpui.pdf Resume/CV]* (as of Feb. 2021)
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Oct. 2021)
 
 *Email*: jordancwp AT gmail.com\n
 
@@ -131,18 +131,21 @@ Software Engineering Intern @[https://www.cadence.com/ Cadence Desgin Systems]
 
 
 
-== Reviewer / External Reviewer:
 
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-- ACM/IEEE Design Automation Conference (DAC)
-- IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
-- ACM Transactions on Design Automation of Electronic Systems (TODAES)
-- ACM International Symposium on Physical Design (ISPD)
-- IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)
-- IEEE International Conference on Computer Design (ICCD)
-- ACM Great Lakes Symposium on VLSI (GLSVLSI)
+== Professional Services:
+Reviewer / External Reviewer:
+- Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+- Design Automation Conference (DAC)
+- International Conference on Computer-Aided Design (ICCAD)
+- Transactions on Design Automation of Electronic Systems (TODAES)
+- International Symposium on Physical Design (ISPD)
+- Asia and South Pacific Design Automation Conference (ASPDAC)
+- International Conference on Computer Design (ICCD)
+- Great Lakes Symposium on VLSI (GLSVLSI)
 - Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI)
 
+Technical Program Committee
+- Design Automation Conference (DAC)
 
 == Teaching
 
