@@ -3,7 +3,7 @@
 {{<img src="./pic/profile.jpg" width=190px align="right" style="margin:8px"/>}}
 = Jordan, Chak-Wa Pui (貝澤華)
 
-Senior Engineer A \n
+Principal Engineer \n
 [https://www.noahlab.com.hk/ Huawei Noah's Ark Lab] \n
 B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 
@@ -18,7 +18,7 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 <a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
 ~~~
 
-*[./doc/cv_cwpui.pdf Resume/CV]* (as of Oct. 2021)
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Dec. 2021)
 
 *Email*: jordancwp AT gmail.com\n
 
@@ -27,12 +27,12 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 
 == About
 
-I'm currently a Senior Engineer A in Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
+I'm currently a Principal Engineer in Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
 I obtained my Ph.D. degree in Computer Science and Engineering from [https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] in 2019.
 My advisor was Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. 
 Previously, I obtained my bachelor degree in Computer Science and Technology from [http://en.sjtu.edu.cn Shanghai Jiao Tong University], in 2015.
 
-My research mainly focuses on physical design for ASICs and FPGAs, but I also have experience in logic synthesis and applying ML in P&R.
+My research mainly focuses on physical design for ASICs and FPGAs, but I also have experience in logic synthesis and applying ML in EDA.
 I am one of the main contributors of several state-of-the-art P&R tools and have won top3 in EDA contests for many times.
 
 == Publications {{<font face="georgia, serif" size="3">(<a href="http://dblp.uni-trier.de/pers/hd/p/Pui:Chak=Wa"><img src="./pic/dblp-5.png" height="30px" style="margin-bottom:-7px"></a>, <a href="https://scholar.google.com.hk/citations?user=5pqag5YAAAAJ&amp;hl=en"><img src="./pic/google-scholar.png" height="20px" style="margin-bottom:-4px"></a>)</font>}}
@@ -100,7 +100,7 @@ ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. 
 
 == Experiences
 
-Senior Engineer A @[https://www.noahlab.com.hk/ Huawei Noah's Ark Lab]
+Principal Engineer @[https://www.noahlab.com.hk/ Huawei Noah's Ark Lab]
 - Decision Making & Reasoning Lab
 - Mar. 2021-present, Shenzhen, China
 
