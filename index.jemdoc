@@ -18,7 +18,7 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 <a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
 ~~~
 
-*[./doc/cv_cwpui.pdf Resume/CV]* (as of Dec. 2021)
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Jan. 2022)
 
 *Email*: jordancwp AT gmail.com\n
 
@@ -27,13 +27,16 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 
 == About
 
-I'm currently a Principal Engineer in Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
+I'm currently a Principal Engineer in the Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
 I obtained my Ph.D. degree in Computer Science and Engineering from [https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] in 2019.
 My advisor was Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. 
 Previously, I obtained my bachelor degree in Computer Science and Technology from [http://en.sjtu.edu.cn Shanghai Jiao Tong University], in 2015.
 
-My research mainly focuses on physical design for ASICs and FPGAs, but I also have experience in logic synthesis and applying ML in EDA.
-I am one of the main contributors of several state-of-the-art P&R tools and have won top3 in EDA contests for many times.
+During my Ph.D., I mainly focus on physical design but also have experience in logic synthesis and applying ML in EDA. 
+I am one of the main contributors of several state-of-the-art P&R tools and have won top3 in EDA contests many times.
+
+During my time in industry, I have broad experience in logic synthesis, placement, and routing.
+I have been the architect\/major contributor of several key features\/tools in the EDA chain, which are verified by the in-house design teams.
 
 == Publications {{<font face="georgia, serif" size="3">(<a href="http://dblp.uni-trier.de/pers/hd/p/Pui:Chak=Wa"><img src="./pic/dblp-5.png" height="30px" style="margin-bottom:-7px"></a>, <a href="https://scholar.google.com.hk/citations?user=5pqag5YAAAAJ&amp;hl=en"><img src="./pic/google-scholar.png" height="20px" style="margin-bottom:-4px"></a>)</font>}}
 === Journal Paper
@@ -131,19 +134,20 @@ Software Engineering Intern @[https://www.cadence.com/ Cadence Desgin Systems]
 
 
 == Professional Services:
-Reviewer / External Reviewer:
-- Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+Technical Program Committee Member
+- Design Automation Conference (DAC), 2022
+
+Conference Reviewer:
 - Design Automation Conference (DAC)
 - International Conference on Computer-Aided Design (ICCAD)
-- Transactions on Design Automation of Electronic Systems (TODAES)
 - International Symposium on Physical Design (ISPD)
 - Asia and South Pacific Design Automation Conference (ASPDAC)
 - International Conference on Computer Design (ICCD)
 - Great Lakes Symposium on VLSI (GLSVLSI)
-- Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI)
 
-Technical Program Committee
-- Design Automation Conference (DAC)
+Journal Reviewer:
+- Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+- Transactions on Design Automation of Electronic Systems (TODAES)
 
 == Teaching
 
