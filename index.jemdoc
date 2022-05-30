@@ -18,7 +18,7 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 <a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
 ~~~
 
-*[./doc/cv_cwpui.pdf Resume/CV]* (as of Jan. 2022)
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Jun. 2022)
 
 *Email*: jordancwp AT gmail.com\n
 
@@ -27,7 +27,7 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ cuhk])
 
 == About
 
-I'm currently a Principal Engineer in the Decision Making & Reasoning Lab of Huawei Noah's Ark Lab.
+I am a Principal Engineer in the AI4EDA Team of Huawei Noah's Ark Lab.
 I obtained my Ph.D. degree in Computer Science and Engineering from [https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] in 2019.
 My advisor was Prof. [http://www.cse.cuhk.edu.hk/~fyyoung/ Evangeline F.Y. Young]. 
 Previously, I obtained my bachelor degree in Computer Science and Technology from [http://en.sjtu.edu.cn Shanghai Jiao Tong University], in 2015.
@@ -103,9 +103,12 @@ ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. 
 
 == Experiences
 
-Principal Engineer @[https://www.noahlab.com.hk/ Huawei Noah's Ark Lab]
-- Decision Making & Reasoning Lab
-- Mar. 2021-present, Shenzhen, China
+Staff Engineer @[https://www.cwpui.com Startup]
+- Jun. 2022-present, Shanghai, China
+
+Principal Engineer @[https://https://www.huawei.com/ Huawei]
+- AI4EDA Team of Noah's Ark Lab
+- Mar. 2021-Jun. 2022, Shenzhen, China
 
 Lead Software Engineer @[https://www.cadence.com/ Cadence Desgin Systems]
 - Detailed Placement Team of Innovus
@@ -136,6 +139,7 @@ Software Engineering Intern @[https://www.cadence.com/ Cadence Desgin Systems]
 == Professional Services:
 Technical Program Committee Member
 - Design Automation Conference (DAC), 2022
+- International Conference on Computer-Aided Design (ICCAD), 2022
 
 Conference Reviewer:
 - Design Automation Conference (DAC)
@@ -149,8 +153,7 @@ Journal Reviewer:
 - Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 - Transactions on Design Automation of Electronic Systems (TODAES)
 
-== Teaching
-
+Teaching
 - 2015-2016 Fall Embedded System Development and Applications
 - 2015-2016 Spring CSCI1520 Computer Principles and C++ Programming
 - 2016-2017 Fall ESTR1002 Problem Solving by Programming
