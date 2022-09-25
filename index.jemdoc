@@ -42,54 +42,54 @@ I have been the architect\/major contributor of several key features\/tools in t
 === Journal Paper
 - \[J4\] *Chak-Wa Pui* and Evangeline F.Y. Young, 
 \'[https://dl.acm.org/doi/10.1145/3377551 Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems]\', 
-ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2020.
+ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2020.  \[[./doc/j4.pdf pdf]\]
 - \[J3\] Gengjie Chen, *Chak-Wa Pui*, Haocheng Li, Evangeline F.Y. Young, 
 \'[https://ieeexplore.ieee.org/document/8758352 Dr. CU: Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search]\', 
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020. \[[./doc/j3.pdf pdf]\]
 - \[J2\] Peishan Tu, *Chak-Wa Pui*, Evangeline F.Y. Young,
 \'[https://ieeexplore.ieee.org/document/8695870 Simultaneous Reconnection Surgery Technique of Routing with Machine Learning-based Acceleration]\', 
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020. \[[./doc/j2.pdf pdf]\]
 - \[J1\] Gengjie Chen, *Chak-Wa Pui*, Wing-Kai Chow, Ka-Chun Lam, Jian Kuang, Evangeline F.Y. Young and Bei Yu, 
 \'[http://ieeexplore.ieee.org/document/8122004/ RippleFPGA: Routability-Driven Simultaneous Packing and Placement for Modern FPGAs]\', 
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2018.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2018. \[[./doc/j1.pdf pdf]\]
 
 === Conference Papers
 - \[C12\] Xinyi Zhou, Junjie Ye, *Chak-Wa Pui*, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, Guangyong Chen, Pheng Ann Heng, 
 \'[./doc/main.pdf Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration]\', 
-IEEE/ACM International Conference on Computer-Aided Design~(*ICCAD*), San Diego, CA, USA, Oct.~30-Nov.~3, 2022.
+IEEE/ACM International Conference on Computer-Aided Design~(*ICCAD*), San Diego, CA, USA, Oct.~30-Nov.~3, 2022. \[[./doc/c12.pdf pdf]\]
 - \[C11\] Dan Zheng, Xiaopeng Zhang, *Chak-Wa Pui*, Evangeline F.Y. Young, 
 \'[https://dl.acm.org/doi/10.1145/3394885.3431565 Multi-FPGA Co-optimization: Hybrid Routing and Competitive-based Time Division Multiplexing Assignment]\', 
-IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Virtual Conference, Jan.~18-21, 2021.
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Virtual Conference, Jan.~18-21, 2021. \[[./doc/c11.pdf pdf]\]
 - \[C10\] Jinwei Liu, *Chak-Wa Pui*, Fangzhou Wang, Evangeline F.Y. Young, 
 \'[https://ieeexplore.ieee.org/document/9218646 CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model]\', 
-ACM/IEEE Design Automation Conference~(*DAC*), Virtual Conference, July~19-23, 2020.
+ACM/IEEE Design Automation Conference~(*DAC*), Virtual Conference, July~19-23, 2020. \[[./doc/c10.pdf pdf]\]
 - \[C9\] *Chak-Wa Pui* and Evangeline F.Y. Young, 
 \'[https://ieeexplore.ieee.org/document/8942125 Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems]\', 
-IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4-7, 2019.
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4-7, 2019. \[[./doc/c9.pdf pdf]\]
 - \[C8\] *Chak-Wa Pui*, Gang Wu, Freddy Y. C. Mang, Evangeline F.Y. Young, 
 \'[https://ieeexplore.ieee.org/document/8771330 An Analytical Approach for Time-Division Multiplexing Optimization in Multi-FPGA based Systems]\', 
-ACM/IEEE International Workshop on System-Level Interconnect Prediction (*SLIP*), Las Vegas, NV, USA, June 2, 2019.
+ACM/IEEE International Workshop on System-Level Interconnect Prediction (*SLIP*), Las Vegas, NV, USA, June 2, 2019. \[[./doc/c8.pdf pdf]\]
 - \[C7\] Biying Xu, Shaolan Li, *Chak-Wa Pui*, Derong Liu, Linxiao Shen, Yibo Lin, Nan Sun and David Z. Pan, 
 \'[https://dl.acm.org/doi/10.1145/3299902.3309751 Device Layer-Aware Analytical Placement for Analog Circuits]\',
-ACM International Symposium on Physical Design (*ISPD*), San Francisco, CA, USA, Apr. 14-17, 2019. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}})
+ACM International Symposium on Physical Design (*ISPD*), San Francisco, CA, USA, Apr. 14-17, 2019. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}}) \[[./doc/c7.pdf pdf]\]
 - \[C6\] Gengjie Chen, *Chak-Wa Pui*, Haocheng Li, Jingsong Chen, Bentian Jiang, Evangeline F.Y. Young, 
 \'[https://dl.acm.org/citation.cfm?doid=3287624.3287678 Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search]\', 
-IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan. 21-24, 2019.
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan. 21-24, 2019. \[[./doc/c6.pdf pdf]\]
 - \[C5\] Peishan Tu, *Chak-Wa Pui*, Evangeline F.Y. Young, 
-\'[https://dl.acm.org/citation.cfm?id=3194556/ Simultaneous Timing Driven Tree Surgery in Routing with Machine Learning-based Acceleration]\', 
-ACM Great Lakes Symposium on VLSI (*GLSVLSI*), Chicago, IL, USA, May 23-25, 2018.
+\'[https://dl.acm.org/doi/abs/10.1145/3194554.3194556 Simultaneous Timing Driven Tree Surgery in Routing with Machine Learning-based Acceleration]\', 
+ACM Great Lakes Symposium on VLSI (*GLSVLSI*), Chicago, IL, USA, May 23-25, 2018. \[[./doc/c5.pdf pdf]\]
 - \[C4\] *Chak-Wa Pui*, Peishan Tu, Haocheng Li, Gengjie Chen, Evangeline F.Y. Young, 
 \'[http://ieeexplore.ieee.org/document/8297387/ A Two-Step Search Engine For Large Scale Boolean Matching Under NP3 Equivalence]\', 
-IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018.
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Jeju Island, Korea, Jan. 22-25, 2018. \[[./doc/c4.pdf pdf]\]
 - \[C3\] *Chak-Wa Pui*, Gengjie Chen, Yuzhe Ma, Evangeline F.Y. Young, Bei Yu, 
 \'[http://ieeexplore.ieee.org/document/8203880/ Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction]\', 
-IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017.
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, USA, Nov. 13-16, 2017. \[[./doc/c3.pdf pdf]\]
 - \[C2\] *Chak-Wa Pui*, Gengjie Chen, Wing-Kai Chow, Jian Kuang, Ka-Chun Lam, Peishan Tu, Hang Zhang, Evangeline F.Y. Young, Bei Yu, 
 \'[http://ieeexplore.ieee.org/document/7827644/ RippleFPGA: A Routability-Driven Placement for Large-Scale Heterogeneous FPGAs]\', 
-IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov. 7-10, 2016.
+IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, Nov. 7-10, 2016. \[[./doc/c2.pdf pdf]\]
 - \[C1\] Wing-Kai Chow, *Chak-Wa Pui*, Evangeline F.Y. Young, 
 \'[http://ieeexplore.ieee.org/document/7544326/ Legalization Algorithm for Multiple-Row Height Standard Cell Design]\', 
-ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}})
+ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}}) \[[./doc/c1.pdf pdf]\]
 
 
 == Honors & Awards
