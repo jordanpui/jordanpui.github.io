@@ -1,6 +1,6 @@
 # jemdoc: nofooter, title{Chak-Wa Pui}
 
-{{<img src="./pic/profile.jpg" width=190px align="right" style="margin:8px"/>}}
+{{<img src="./pic/profile.jpg" width=330px align="right" style="margin:8px"/>}}
 = Jordan, Chak-Wa Pui (貝澤華)
 
 R&D Engineer, Staff \n
@@ -12,13 +12,13 @@ B.Sc. ([http://en.sjtu.edu.cn SJTU]), Ph.D. ([https://www.cuhk.edu.hk/ CUHK])
 
 ~~~
 {}{raw}
-<a href="https://www.linkedin.com/in/cwpui"><img src="./pic/LinkedIn_s.png"  height="30px"></a>
+<a href="https://www.linkedin.com/in/jordan-chak-wa-pui-b91b78a8"><img src="./pic/LinkedIn_s.png"  height="30px"></a>
 <a href="https://www.facebook.com/jordancwpui"><img src="./pic/Facebook_s.png" height="30px"></a>
 <a href="https://github.com/jordanpui"><img src="./pic/github_s.jpg" height="30px"></a>
 <a href="https://www.instagram.com/jordancwpui/"><img src="./pic/instagram.png" height="30px"></a>
 ~~~
 
-*[./doc/cv_cwpui.pdf Resume/CV]* (as of Dec. 2022)
+*[./doc/cv_cwpui.pdf Resume/CV]* (as of Dec. 2023)
 
 *Email*: jordancwp AT gmail.com\n
 
@@ -55,7 +55,7 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*
 
 === Conference Papers
 - \[C13\] Shixiong Kai, *Chak-Wa Pui*, Fangzhou Wang, Jiang Shougao, Bin Wang, Yu Huang, Jianye Hao, 
-\'[./doc/c13.pdf TOFU: A Two-Step Floorplan Refinement Framework for Whitespace Reduction]\', 
+\'[https://ieeexplore.ieee.org/document/10137175/ TOFU: A Two-Step Floorplan Refinement Framework for Whitespace Reduction]\', 
 Design, Automation, and Test in Europe~(*DATE*), Antwerp, Belgium, Apr.~17-19, 2023. \[[./doc/c13.pdf pdf]\]
 - \[C12\] Xinyi Zhou, Junjie Ye, *Chak-Wa Pui*, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, Guangyong Chen, Pheng Ann Heng, 
 \'[./doc/c12.pdf Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration]\', 
@@ -94,8 +94,20 @@ International Conference on Computer-Aided Design (*ICCAD*), Austin, TX, USA, No
 \'[http://ieeexplore.ieee.org/document/7544326/ Legalization Algorithm for Multiple-Row Height Standard Cell Design]\', 
 Design Automation Conference (*DAC*), Austin, TX, USA, June 5-9, 2016. ({{<font color="red"><b>Best Paper Award Nomination</b></font>}}) \[[./doc/c1.pdf pdf]\]
 
+=== Patents
+- \[P3\] *Chak-Wa Pui*, Jinglei Yang, Jiequn Tang, 
+\'[https://patents.google.com/patent/CN116663464A 一种关键时序路径的优化方法及系统]\', 
+CN116663464A
+- \[P2\] Shixiong Kai, *Chak-Wa Pui*, Bin Wang, Shougao Jiang, Yu Huang, 
+\'[https://patents.google.com/patent/WO2023185917A1 一种芯片的模块排布方法及相关设备]\', 
+WO2023185917A1
+- \[P1\] Shixiong Kai, *Chak-Wa Pui*, Bin Wang, Shougao Jiang, Yu Huang,
+\'[https://patents.google.com/patent/CN114662444A 一种集成电路的馈通方法及相关设备]\', 
+CN114662444A
+
 
 == Honors & Awards
+- [https://www.pudong.gov.cn/023003004/20230821/765212.html 2023上海浦东新区明珠菁英人才]
 - 3rd Place Award in ICCAD 2019 Contest on \'[http://iccad-contest.org/2019/problems.html System-level FPGA Routing with Timing Division Multiplexing Technique]\'
 - 1st Place Award in ICCAD 2019 Contest on \'[http://iccad-contest.org/2019/problems.html LEF/DEF Based Open-Source Global Router]\'
 - ISPD~2019 Best Paper Award Nomination
@@ -146,7 +158,7 @@ Software Engineering Intern @[https://www.cadence.com/ Cadence Desgin Systems]
 == Professional Services:
 Technical Program Committee Member
 - Design Automation Conference (DAC), 2022-2023
-- International Conference on Computer-Aided Design (ICCAD), 2022
+- International Conference on Computer-Aided Design (ICCAD), 2022-2023
 
 Conference Reviewer:
 - Design Automation Conference (DAC)
